@@ -6,6 +6,7 @@ import javafx.scene.shape.Circle;
 
 public class Controller {
 
+
     @FXML
     private Circle myCircle;
     private double X;
